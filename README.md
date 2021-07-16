@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was made to get my hand dirty on Redux basics
+This project was made to get my hand dirty on Redux basics, Google OAuth 2.0 API, React Router. You can visit : https://khoa-livestream2021-react.netlify.app/
 
 ## Problems
 
