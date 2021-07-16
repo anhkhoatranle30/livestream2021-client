@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# LiveStreaming Application
+
+## Description
+
+This project was made to get my hand dirty on Redux basics
+
+## Problems
+
+This app is only available for the Front-end only, I will configure the way to deploy backend later :) Thanks!!
+
+# React Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
